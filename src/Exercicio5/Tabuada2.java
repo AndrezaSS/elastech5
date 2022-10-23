@@ -9,7 +9,7 @@ public class Tabuada2 {
                     System.out.println(tabuada + "*" + x + "=" + x );
                     tabuada++;
                 }
-
+ff
     }
 
     public static void main(String[] args) {
